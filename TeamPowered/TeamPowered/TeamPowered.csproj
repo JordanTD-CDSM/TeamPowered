@@ -7,8 +7,8 @@
     <ProjectGuid>{714CEAF2-6A6F-4422-A08C-7511AD654B18}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TeamPowered</RootNamespace>
-    <AssemblyName>TeamPowered</AssemblyName>
+    <RootNamespace>TeamPoweredJTD</RootNamespace>
+    <AssemblyName>TeamPoweredJTD</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
